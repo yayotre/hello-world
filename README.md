@@ -1,3 +1,3 @@
 # hello-world
-Experimenting with my first repository
+Experimenting with my first repository. \n
 I am just learning.
